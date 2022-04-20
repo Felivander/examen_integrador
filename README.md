@@ -1,6 +1,9 @@
-Felipe van der Docnkt
+Felipe van der Donckt
+
 Francisco Taboada
+
 Igal Glukman
+
 Mirko Osiska
 
 
